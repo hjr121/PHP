@@ -1,0 +1,70 @@
+<html>
+    <head>
+        <meta charset="utf-8">
+        <script src="homework02.js" language="javascript"></script>
+        <link rel="stylesheet" href="homework02.css" type="text/css">
+        <title>1</title>
+    </head>
+    <body bgcolor="gray">
+        <center>
+        <header>
+            <h2>黃家柔的個人網站</h2>
+        </header>
+        <div>
+            <table border="3">
+                <tr>
+                    <td>
+                    <center>
+                    <b>個人簡介</center>   
+                        
+                    </td>
+                    <td >
+                    <center>
+                    <b>能力與優勢</center>   
+                       
+                    </td>
+                    <td >
+                    <center>
+                    <b>興趣愛好</center>   
+                      
+                    </td>
+                    <td>
+                    <center>
+                    <b>人格特質</center>   
+                      
+                    </td>
+                </tr>
+                <tr>
+                    
+                    <td>
+                    <center>
+                        姓名：黃家柔<br>
+                        學號：A1113369 </center>   
+                    </td>
+                    <td ><center>
+                        網頁前後端開發</center>   
+                    </td>
+                    <td >
+                    <center>
+                        繪圖</center>  
+                      
+                    </td>
+                    <td>
+                    <center>
+                    積極<br>
+                      不拘小節<br></center>  
+                      
+                    </td>
+                    
+                </tr>
+            </table>
+            
+            <img src=.\img\包包\1.1.png width=20% >
+            <hr>
+        </div> 
+        <footer><h5>我想過一種不同的生活。我不想每天去同一個地方，看到同樣的人，做同樣的工作。我想要有趣的挑戰。</h5></footer>
+    </body>
+        </center>
+        
+</html>
+
