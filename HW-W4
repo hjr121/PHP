@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf8">
+    </head>
+    <form action="w4.php" method="post">
+        name：<input type="text" name="nName" value="" placeholder="Please input your name">
+        <input type="submit" name="送出">
+        <br>
+        password：<input type="password" name="psw" required>
+        <input type="reset" name="重設">
+        <br>
+        <input type="checkbox" name="taipei">台北<!--checked預先勾選-->
+        <input type="checkbox" name="chaiyi" checked>嘉義
+        <input type="checkbox" name="kaushiung">高雄
+        <br>
+        <input type="radio" name="male" >man
+        <input type="radio" name="female">woman
+        <br>
+        日期
+        <input type="date" name="">
+        <input type="time" name="female">
+        <br>
+        <input type="file" name="sflie">
+        <select name="size[]">
+            <option value="S">S
+            <option value="m">M
+            <option value="L">L
+            <option value="xl">XL
+            
+        </select>
+        <br>
+        
+        <textarea rows="10">
+            
+        </textarea>
+
+        
+    </form>
+</html>
